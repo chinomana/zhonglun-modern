@@ -1,5 +1,7 @@
 # 《中论现代性解读》| Modern Interpretation of *Mūlamadhyamakakārikā*
 
+![封面](cover.png)
+
 > 龙树《中论》的后人类主义跨学科哲学重构
 > A Posthumanist Interdisciplinary Philosophical Reconstruction of Nāgārjuna's *Madhyamaka*
 
@@ -42,10 +44,14 @@ The *Mūlamadhyamakakārikā* is one of the most profound works in Buddhist phil
 
 | 方式 | Format | 链接 | Link | 适合场景 | Best For |
 |------|--------|------|------|----------|----------|
-| 在线阅读 | Online | [GitHub Pages](https://你的用户名.github.io/zhonglun-modern/) | [GitHub Pages](https://your-username.github.io/zhonglun-modern/) | 电脑/手机浏览 | Browser reading |
-| 下载 EPUB | Download EPUB | [点击下载](epub/zhonglun-modern.epub) | [Download](epub/zhonglun-modern.epub) | iPad / Kindle / 微信读书 | E-readers |
-| 下载 PDF | Download PDF | [点击下载](pdf/zhonglun-modern.pdf) | [Download](pdf/zhonglun-modern.pdf) | 打印/学术引用 | Print / Academic citation |
-| 下载 Word | Download DOCX | [点击下载](docx/zhonglun-modern.docx) | [Download](docx/zhonglun-modern.docx) | 办公编辑 | Office editing |
+| 在线阅读（GitHub Pages）| Online (GitHub Pages) | [点击阅读](https://chinomana.github.io/zhonglun-modern/) | [Read](https://chinomana.github.io/zhonglun-modern/) | 电脑/手机浏览 | Browser reading |
+| 在线阅读（Markdown）| Online (Markdown) | [点击阅读](zhonglun-modern.md) | [Read](zhonglun-modern.md) | 直接浏览完整 Markdown | Quick preview |
+| 下载 EPUB | Download EPUB | [点击下载](zhonglun-modern.epub) | [Download](zhonglun-modern.epub) | iPad / Kindle / 微信读书 | E-readers |
+| 下载 PDF | Download PDF | [点击下载](zhonglun-modern.pdf) | [Download](zhonglun-modern.pdf) | 打印/学术引用 | Print / Academic citation |
+
+> 💡 **提示 | Note**：GitHub Pages 线上阅读需要你在 GitHub 仓库设置中手动开启（Settings → Pages → Source 选择 main 分支）。在开启之前，可以直接点击「Markdown」链接在 GitHub 上浏览完整内容。
+>
+> 💡 **Note**: GitHub Pages requires manual activation in your repository settings (Settings → Pages → Source: main branch). Until then, use the Markdown link for direct browsing.
 
 ---
 
@@ -132,14 +138,14 @@ Found a typo? Want to add a philosophical point? Interested in contributing to t
 ```
 《中论现代性解读：龙树中观的后人类主义跨学科哲学重构》，
 GitHub 开源项目，2026。
-https://github.com/你的用户名/zhonglun-modern
+https://github.com/chinomana/zhonglun-modern
 ```
 
 ### English Format (MLA)
 ```
 Modern Interpretation of Mūlamadhyamakakārikā: 
 A Posthumanist Interdisciplinary Reconstruction of Nāgārjuna's Madhyamaka. 
-GitHub, 2026, https://github.com/your-username/zhonglun-modern.
+GitHub, 2026, https://github.com/chinomana/zhonglun-modern.
 ```
 
 ### BibTeX
@@ -147,9 +153,9 @@ GitHub, 2026, https://github.com/your-username/zhonglun-modern.
 @book{zhonglun2026,
   title={中论现代性解读：龙树中观的跨学科哲学重构},
   titleaddon={Modern Interpretation of Mūlamadhyamakakārikā},
-  author={你的名字 / Your Name},
+  author={chino mana - 千野 真名},
   year={2026},
-  url={https://github.com/your-username/zhonglun-modern},
+  url={https://github.com/chinomana/zhonglun-modern},
   note={Open source philosophical commentary by a high school student}
 }
 ```
