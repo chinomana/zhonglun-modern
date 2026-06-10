@@ -49,10 +49,6 @@ The *Mūlamadhyamakakārikā* is one of the most profound works in Buddhist phil
 | 下载 EPUB | Download EPUB | [点击下载](zhonglun-modern.epub) | [Download](zhonglun-modern.epub) | iPad / Kindle / 微信读书 | E-readers |
 | 下载 PDF | Download PDF | [点击下载](zhonglun-modern.pdf) | [Download](zhonglun-modern.pdf) | 打印/学术引用 | Print / Academic citation |
 
-> 💡 **提示 | Note**：GitHub Pages 线上阅读需要你在 GitHub 仓库设置中手动开启（Settings → Pages → Source 选择 main 分支）。开启后，访问 `https://chinomana.github.io/zhonglun-modern/` 即可看到带目录导航的完整阅读页面，而非 README。
->
-> 💡 **Note**: GitHub Pages requires manual activation in your repository settings (Settings → Pages → Source: main branch). Once enabled, the URL will show a full reading page with table of contents, not the README.
-
 ---
 
 ## 全书27章一览 | Table of Contents (27 Chapters)
