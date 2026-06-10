@@ -44,14 +44,14 @@ The *Mūlamadhyamakakārikā* is one of the most profound works in Buddhist phil
 
 | 方式 | Format | 链接 | Link | 适合场景 | Best For |
 |------|--------|------|------|----------|----------|
-| 在线阅读（GitHub Pages）| Online (GitHub Pages) | [点击阅读](https://chinomana.github.io/zhonglun-modern/) | [Read](https://chinomana.github.io/zhonglun-modern/) | 电脑/手机浏览 | Browser reading |
+| 在线阅读（GitHub Pages）| Online (GitHub Pages) | [点击阅读](https://chinomana.github.io/zhonglun-modern/) | [Read](https://chinomana.github.io/zhonglun-modern/) | 电脑/手机浏览，带目录导航 | Browser reading with TOC |
 | 在线阅读（Markdown）| Online (Markdown) | [点击阅读](zhonglun-modern.md) | [Read](zhonglun-modern.md) | 直接浏览完整 Markdown | Quick preview |
 | 下载 EPUB | Download EPUB | [点击下载](zhonglun-modern.epub) | [Download](zhonglun-modern.epub) | iPad / Kindle / 微信读书 | E-readers |
 | 下载 PDF | Download PDF | [点击下载](zhonglun-modern.pdf) | [Download](zhonglun-modern.pdf) | 打印/学术引用 | Print / Academic citation |
 
-> 💡 **提示 | Note**：GitHub Pages 线上阅读需要你在 GitHub 仓库设置中手动开启（Settings → Pages → Source 选择 main 分支）。在开启之前，可以直接点击「Markdown」链接在 GitHub 上浏览完整内容。
+> 💡 **提示 | Note**：GitHub Pages 线上阅读需要你在 GitHub 仓库设置中手动开启（Settings → Pages → Source 选择 main 分支）。开启后，访问 `https://chinomana.github.io/zhonglun-modern/` 即可看到带目录导航的完整阅读页面，而非 README。
 >
-> 💡 **Note**: GitHub Pages requires manual activation in your repository settings (Settings → Pages → Source: main branch). Until then, use the Markdown link for direct browsing.
+> 💡 **Note**: GitHub Pages requires manual activation in your repository settings (Settings → Pages → Source: main branch). Once enabled, the URL will show a full reading page with table of contents, not the README.
 
 ---
 
