@@ -45,6 +45,16 @@ def merge_markdown():
         lines.append(ch.read_text(encoding="utf-8"))
         lines.append("\n\n---\n\n")
 
+    # References
+    lines.append("\n## 参考文献 | References\n\n")
+    lines.append("### 原始文献 | Primary Sources\n")
+    lines.append("- 龙树.《中论》. 鸠摩罗什译. 北京：中华书局.\n")
+    lines.append("- Nāgārjuna. *Mūlamadhyamakakārikā*. Sanskrit text edited by Louis de La Vallée Poussin. Bibliotheca Buddhica, 1903.\n\n")
+    lines.append("### 现代译本与研究 | Modern Translations and Studies\n")
+    lines.append("- Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford: Oxford University Press, 1995.\n")
+    lines.append("- Westerhoff, Jan. *Nāgārjuna's Madhyamaka: A Philosophical Introduction*. Oxford: Oxford University Press, 2009.\n")
+    lines.append("- Siderits, Mark, and Shoryu Katsura. *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*. Boston: Wisdom Publications, 2013.\n")
+
     OUT_MD.write_text("".join(lines), encoding="utf-8")
     print(f"[OK] Merged markdown -> {OUT_MD}")
     return "".join(lines)

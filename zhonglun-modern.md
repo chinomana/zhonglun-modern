@@ -4293,3 +4293,14 @@ Martin Heidegger的"向死而生"同样被困在龙树所批判的框架中。Da
 
 ---
 
+
+## 参考文献 | References
+
+### 原始文献 | Primary Sources
+- 龙树.《中论》. 鸠摩罗什译. 北京：中华书局.
+- Nāgārjuna. *Mūlamadhyamakakārikā*. Sanskrit text edited by Louis de La Vallée Poussin. Bibliotheca Buddhica, 1903.
+
+### 现代译本与研究 | Modern Translations and Studies
+- Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford: Oxford University Press, 1995.
+- Westerhoff, Jan. *Nāgārjuna's Madhyamaka: A Philosophical Introduction*. Oxford: Oxford University Press, 2009.
+- Siderits, Mark, and Shoryu Katsura. *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*. Boston: Wisdom Publications, 2013.
